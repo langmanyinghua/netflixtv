@@ -10,7 +10,7 @@
 - [官网网站](https://www.liuyifeicn.com) 
 
 ## 在线体验
-<img alt="logo" width="200px" height="200px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
+<img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
 
 ## ApiKey获取
 
