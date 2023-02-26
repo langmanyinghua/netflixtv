@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/5ba2469eb7b918aca35795011415e3d905dae0cb/static/logo.png">
+	<img alt="logo"  width="200px" height="200px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/5ba2469eb7b918aca35795011415e3d905dae0cb/static/logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奈飞影视</h1>
 <h4 align="center">聚合各种网盘影视资源</h4>
@@ -11,7 +11,7 @@
 
 ## 在线体验
 <p align="center">
-	<img alt="logo" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/5ba2469eb7b918aca35795011415e3d905dae0cb/static/logo.png">
+	<img alt="logo" width="200px" height="200px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
 </p>
 
 ## ApiKey获取
