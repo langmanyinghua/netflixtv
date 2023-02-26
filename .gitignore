@@ -1,0 +1,12 @@
+dist/
+deploy_versions/
+.temp/
+.rn_temp/
+.DS_Store
+
+.hbuilderx/
+.vite/
+
+uni_modules/
+unpackage/
+node_modules/

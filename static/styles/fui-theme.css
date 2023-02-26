@@ -1,0 +1,7 @@
+page {
+	height: initial;
+	overflow-y: initial;
+	min-height: 100vh;
+
+	--fui-color-primary: #8b5cf6;
+}
