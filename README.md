@@ -13,7 +13,9 @@
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
 
 ## ApiKey获取
+<p>
 加V获取ApiKey（maoxiantv）
+</p>
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/wechat_qrcode.jpeg">
 
 ## 接口稳
