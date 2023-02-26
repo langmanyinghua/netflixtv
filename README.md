@@ -29,27 +29,27 @@
 ## 接口文档
 接口文档很简单
 ### 获取首页数据
-```json
+```bash
 Get https://www.liuyifeicn.com/admin/miniprogram/tv/index
 
 ```
 ### 获取顶部栏目
-```json
+```bash
 Get https://www.liuyifeicn.com/admin/miniprogram/tv/getChannel
 
 ```
 ### 获取栏目下的内容
-```json
+```bash
 Get https://www.liuyifeicn.com/admin/miniprogram/tv/getChannelContent?page=1&size=10
 
 ```
 ### 获取单条内容
-```json
+```bash
 Get https://www.liuyifeicn.com/admin/miniprogram/tv/content?contentId=1
 
 ```
 ### 查询内容
-```json
+```bash
 Get https://www.liuyifeicn.com/admin/miniprogram/tv/search?keyword=狂飙&page=1&size=10
 
 ```
