@@ -16,7 +16,7 @@
 			platform: null,
 			deviceType: null,
 			BASE_URL: 'https://www.liuyifeicn.com',
-			apiKey: '93d9619fb2c74270ba3f33f8ff8b1e29', // 加V maoxiantv （备注：API接入）获取 apiKey
+			apiKey: '', // 加V maoxiantv （备注：API接入）获取 apiKey
 			topNavList: [],
 			categoryTabCurrent: 0,
 			fromIndex: false,

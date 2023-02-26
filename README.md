@@ -9,16 +9,23 @@
 
 - [官网网站](https://www.liuyifeicn.com) 
 
+## 产品优势
+- 目前总共收集5万+的资源，每天爬虫已100+的速度爬取最新的数据（所有的数据已去重复）
+- 影视的基础信息（logo，名称，演员，导演等）来源于豆瓣，数据准确性高
+- 所有视频地址均为网盘链接，不提供直接播放服务
+- 免费接口访问，加微信申请ApiKey即可访问接口
+- 前端采用Uniapp编写，可以一键打包成Android，IOS，H5，小程序（微信，字节，快手，百度，QQ）
+
 ## 在线体验
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
 
 ## ApiKey获取
 <p>
-加V获取ApiKey（maoxiantv）
+加V获取ApiKey（maoxiantv），备注（影视API对接）
 </p>
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/wechat_qrcode.jpeg">
 
-## 接口稳
+## 接口文档
 
 ## 源码安装
 
