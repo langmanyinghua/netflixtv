@@ -10,6 +10,9 @@
 - [官网网站](https://www.liuyifeicn.com) 
 
 ## 在线体验
+<p align="center">
+	<img alt="logo" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/5ba2469eb7b918aca35795011415e3d905dae0cb/static/logo.png">
+</p>
 
 ## ApiKey获取
 
