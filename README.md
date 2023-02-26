@@ -43,4 +43,10 @@ pnpm serve
 git clone 项目到本地，直接用 HBuilderX 打开，直接运行即可，不需要安装任何依赖
 
 ## 产品展示
-<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
+<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/show1.jpeg">
+
+<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/show2.jpeg">
+
+<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/show3.jpeg">
+
+<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/show4.jpeg">
