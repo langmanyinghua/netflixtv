@@ -27,16 +27,31 @@
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/wechat_qrcode.jpeg">
 
 ## 接口文档
+接口文档很简单
+### 获取首页数据
+```json
+Get https://www.liuyifeicn.com/admin/miniprogram/tv/index
 
-```bash
-# yarn 
-yarn serve
+```
+### 获取顶部栏目
+```json
+Get https://www.liuyifeicn.com/admin/miniprogram/tv/getChannel
 
-# npm 
-npm run serve
+```
+### 获取栏目下的内容
+```json
+Get https://www.liuyifeicn.com/admin/miniprogram/tv/getChannelContent?page=1&size=10
 
-# pnpm 
-pnpm serve
+```
+### 获取单条内容
+```json
+Get https://www.liuyifeicn.com/admin/miniprogram/tv/content?contentId=1
+
+```
+### 查询内容
+```json
+Get https://www.liuyifeicn.com/admin/miniprogram/tv/search?keyword=狂飙&page=1&size=10
+
 ```
 
 ## 源码安装
