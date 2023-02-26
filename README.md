@@ -15,6 +15,7 @@
 - 所有视频地址均为网盘链接，不提供直接播放服务
 - 免费接口访问，加微信申请ApiKey即可访问接口
 - 前端采用Uniapp编写，可以一键打包成Android，IOS，H5，小程序（微信，字节，快手，百度，QQ）
+- 无论是APP还是小程序，对接上广告系统，即可赚取流量主佣金
 
 ## 在线体验
 <img alt="logo" width="400px" height="400px" src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
@@ -27,15 +28,6 @@
 
 ## 接口文档
 
-## 源码安装
-
-### 安装依赖
-
-git clone 项目到本地，直接用 HBuilderX 打开，直接运行即可，不需要安装任何依赖
-
-
-### 启动应用
-
 ```bash
 # yarn 
 yarn serve
@@ -47,16 +39,8 @@ npm run serve
 pnpm serve
 ```
 
-## 发布
+## 源码安装
+git clone 项目到本地，直接用 HBuilderX 打开，直接运行即可，不需要安装任何依赖
 
-```bash
-npm run build
-```
-
-发布预览:
-
-```bash
-npm run preview
-```
-
-参见 [官方发布文档](https://nuxt.com/docs/getting-started/deployment) 获取更多信息
+## 产品展示
+<img src="https://raw.githubusercontent.com/langmanyinghua/netflixtv/master/static/images/xcx_qr_code.jpeg">
